@@ -1,0 +1,23 @@
+# Views on testing software:
+
+## Why do we test our software as engineers
+
+To make sure that our output is going to be what we expected and therefore we can be confident
+that our client will be happy with the product because of its quality,'
+and the company will save money in a long term.
+
+## What best practices are there for testing software
+
+Test Driven Development - write your test first
+Behaviour Driven Development - always test your code
+
+There are 3 options to do the testing:
+unit testing - to check small parts of code(jest)
+integration testing - to check how parts of code interact with each other
+ent to end testing - to check how the code as one big unit works(cypress)
+
+## Where you have applied those best practices
+
+Doing the Morse translator using Jest and Cypress
+Doing the project as a group of 8 people, for the sport nutrition company
+we always tried to implement the testing so we would be confident in the quality of the product
